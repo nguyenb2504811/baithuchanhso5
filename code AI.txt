@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Sản phẩm Nhiệm vụ 3.1</title>
+    <style>
+        body { font-family: sans-serif; max-width: 800px; margin: auto; padding: 20px; }
+        img, video { width: 100%; height: auto; margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+    <h1>Tiêu đề nội dung số</h1>
+    <p>Mô tả ngắn gọn về sản phẩm của bạn tại đây.</p>
+    <img src="infographic.png" alt="Infographic nhiệm vụ 2">
+    <video controls>
+        <source src="video.mp4" type="video/mp4">
+        Trình duyệt của bạn không hỗ trợ xem video.
+    </video>
+
+    <footer>
+        <p>© 2026 - Bản quyền thuộc về [Tên của bạn]</p>
+        <p><em>Ghi chú: Mã nguồn được hỗ trợ tạo bởi GitHub Copilot.</em></p>
+    </footer>
+</body>
+</html>
